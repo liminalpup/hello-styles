@@ -1,0 +1,16 @@
+
+
+<!-- (# to change ALL elements with a specific tag e.g. h1, h2, nav) -->
+header {
+    background-color:black;
+    font-family:helvetica;
+    color:lightBlue;
+    letter-spacing:2px;
+  }
+  
+  header:hover {
+    font-family: monospace;
+    background-color:lightgray;
+    color: darkolivegreen;
+    
+  }
